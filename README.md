@@ -5,9 +5,9 @@
     <br>
     <a href="https://www.codefactor.io/repository/github/entysec/ghost"><img src="https://www.codefactor.io/repository/github/entysec/ghost/badge" alt="CodeFactor" /></a><br>
     <br>
-    It helps you to get the developer badge easily<br> You must download NodeJS or if you do not want to download it, you can download the exe file.
+    It helps you to get the developer badge easily<br> You must download <a href="https://nodejs.org/en/">Node JavaScript</a> or if you do not want to download it, you can download the exe file.
     <br>
     <br>
     <b>Installation</b><br>
-    <code>git clone https://github.com/Enmn/Activebot.git</code>
+    <a href="https://codeload.github.com/Enmn/Activebot/zip/refs/heads/main">Click Here for Download</a>
 </p>
