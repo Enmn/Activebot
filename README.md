@@ -3,7 +3,8 @@
 <p align="center">
     <b>Activebot</b><br>
     <br>
-    <a href="https://www.codefactor.io/repository/github/entysec/ghost"><img src="https://www.codefactor.io/repository/github/entysec/ghost/badge" alt="CodeFactor" /></a><br>
+    <a target="_blank" href="https://www.python.org/downloads/" title="NodeJS version"><img src="https://img.shields.io/badge/Node-14-2FAC69.svg"></a>
+  <a target="_blank" href="LICENSE" title="License MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a><br>
     <br>
     It helps you to get the developer badge easily<br> You must download <a href="https://nodejs.org/en/">Node JavaScript</a> or if you do not want to download it, you can download the exe file.
     <br>
